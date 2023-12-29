@@ -1,5 +1,5 @@
 # planos_de_saude
-Programa para Reclamações de Plano de Saúde
+Programa em Python para Reclamações de Plano de Saúde
 
 A atividade consiste em um programa para coletar informações sobre reclamações de consumidores de operadoras de planos de saúde, que deve coletar o seguinte:
 Nome da operadora;
@@ -16,4 +16,4 @@ Testando o código:
 <br><br>
 <img src="https://github.com/Patty-Sato/planos_de_saude/assets/149587063/48042b85-4a1f-40f6-8967-e9e58e26d470" alt="Evidência de Teste" width=700 height=957>
 <br>
-<img src="https://github.com/Patty-Sato/planos_de_saude/assets/149587063/c506daef-c251-4dd4-9de5-95adb2ed3a5c" alt="Evidência de Teste" width=1000 height=456>
+<img src="https://github.com/Patty-Sato/planos_de_saude/assets/149587063/c506daef-c251-4dd4-9de5-95adb2ed3a5c" alt="Evidência de Teste" width=900 height=410>
