@@ -1,20 +1,21 @@
-# planos_de_saude
-Programa em Python para Reclamações de Plano de Saúde
+# Health Care Plan
 
-A atividade consiste em um programa para coletar informações sobre reclamações de consumidores de operadoras de planos de saúde, que deve coletar o seguinte:
-<br>
-Nome da operadora; <br>
-Nome do cliente; <br>
-Motivo da reclamação
-<br>
-O programa devia estar preparado para lidar com 5 operadoras diferentes, e para cada operadora, registrar os clientes e suas reclamações. Como o número de clientes e reclamações não é conhecido antecipadamente, o programa pergunta se há mais clientes e reclamações a serem registrados para cada operadora.
-Para cada operadora registrada, o programa exibe o nome da operadora, o nome do cliente e o motivo da reclamação. Quando todas as reclamações de uma operadora forem registradas, o programa exibe o total de reclamações para essa operadora. No final, ele informa o total geral de reclamações registradas.
+Python Program for Health Care Plan Complaints
 
-- Realizado para a Disciplina Database Application & Data Science.
-- Foram utilizadas as coleções lista e dicionário de Python, e estruturas de repetição for e while para atender ao escopo do trabalho. 
-- Código feito na IDE PyCharm.
-  
-Testando o código:
+The activity consists of a program to collect information about consumer complaints from health care plan operators, which should collect the following: 
+<br>
+Operator’s name; <br>
+Customer’s name; <br>
+Reason for complaint 
+<br>
+The program should be prepared to deal with 5 different operators, and for each operator, register the customers and their complaints. As the number of customers and complaints is not known in advance, the program asks if there are more customers and complaints to be registered for each operator. For each registered operator, the program displays the operator’s name, the customer’s name, and the reason for the complaint. When all complaints from an operator have been registered, the program displays the total number of complaints for that operator. In the end, it reports the overall total of registered complaints.
+
+- Performed for the Database Application & Data Science course. 
+- Python’s list and dictionary collections were used, and for and while repetition structures to meet the scope of the project. 
+- Code made in the PyCharm IDE. 
+
+Testing the code:
+
 <br><br>
 <img src="https://github.com/Patty-Sato/planos_de_saude/assets/149587063/48042b85-4a1f-40f6-8967-e9e58e26d470" alt="Evidência de Teste" width=650 height=888>
 <br>
