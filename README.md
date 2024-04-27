@@ -21,6 +21,6 @@ Testing the code:
 <br>
 <img src="https://github.com/Patty-Sato/planos_de_saude/assets/149587063/c506daef-c251-4dd4-9de5-95adb2ed3a5c" alt="Evidência de Teste" width=800 height=365>
 <br><br>
-Código em Python:
+Python Code:
 <br>
 <img src="https://github.com/Patty-Sato/planos_de_saude/assets/149587063/57815795-3450-42d1-95d5-d0e8ac5db1a2" alt="Evidência de Teste" width=800 height=622>
